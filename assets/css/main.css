@@ -1859,13 +1859,6 @@ Footer Style
     color: white;
 }
 
-.foot .fa {
-    padding: 10px;
-    text-align: center;
-    margin: 5px 2px;
-    font-size: 30px;
-}
-
 .foot .fa-facebook {
     background: #007bb5;
     color: white;
@@ -1877,6 +1870,9 @@ Footer Style
     margin: 5px 2px;
     font-size: 30px;
 }
+
+
+
 
 
 /* 
